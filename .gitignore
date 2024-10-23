@@ -164,3 +164,4 @@ cython_debug/
 
 /cifar-10-python
 /resnet_model_no_aug.pkl
+/resnet_model_with_aug.pkl
