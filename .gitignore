@@ -166,3 +166,5 @@ cython_debug/
 /resnet_model_no_aug.pkl
 /resnet_model_with_aug.pkl
 /ai_ntut_env
+/hw3a/models
+/hw3a/Wafer_Map_Datasets.npz
